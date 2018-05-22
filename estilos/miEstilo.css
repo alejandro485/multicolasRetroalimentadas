@@ -1,0 +1,127 @@
+body{
+	text-align: center;
+	margin: 0 0px;
+	background-color:  #FFF;
+
+}
+.container-fluid{
+	margin: 0px 40px;
+        background-color: #B0C4DE;
+}
+
+.Procesos{
+        width: 750px;
+	height: 250px;
+        margin: 0px auto;
+	background-color: #fff;
+}
+
+.cola1{
+	border: 1px solid black;
+	height: 150px;
+	background: #B0C4DE;
+	overflow: auto;
+}
+
+.procesador{
+	border: 1px solid black;
+	padding: 5px;
+	background: #3CE358;
+}
+.contenedor{
+	padding: 10px;
+}
+
+.Contenido{
+    width: 850px;
+    height: 500px;
+     margin: 0px auto;
+}
+
+table{
+	font-size: 15px;
+}
+iframe{
+	width: 80%;
+	height: 300px;
+}
+.tablass{
+	overflow: auto;
+}
+
+#d1{
+
+    width: 700px;
+    height:  100px;
+    margin: 0 auto;
+}
+
+#d1c{
+    width: 233px;
+    height: 100px;
+    float:left;
+    background-color: #3A9ED7;
+
+}
+
+#d2c{
+    width: 234px;
+    height: 100px;
+    float:left;
+    background-color: #3A9ED7;
+}
+
+#d3c{
+    width: 233px;
+    height: 100px;
+    float:right;
+    background-color: #3A9ED7;
+
+}
+
+
+
+#estados{
+
+    width: 500px;
+    height:  100px;
+    margin: 0 auto;
+}
+
+#b{
+	width: 250px;
+	height: 100px;
+	float:left;
+	background-color: #3A9ED7;
+}
+
+#t{
+	width: 250px;
+	height: 100px;
+	float:left;
+	background-color: #3A9ED7;
+}
+
+
+
+#rectangulo-Ejecucion, #rectangulo-Espera, #rectangulo-Bloqueado, #rectangulo-suspendido {
+    width: 25px;
+    height: 25px;
+    border: solid 1px #000;
+}
+
+#rectangulo-Ejecucion{
+    background-color: #3CE358;
+}
+
+#rectangulo-Espera{
+    background-color: #3A9ED7;
+}
+
+#rectangulo-Bloqueado{
+    background-color: #ff0000;
+}
+
+#rectangulo-suspendido{
+    background-color: #F2D516;
+}

@@ -1,0 +1,17 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "module": "commonjs",
+        "outDir": "build",
+        "rootDir": ".",
+        "noImplicitAny": false,
+        "removeComments": true,
+        "sourceMap": false
+    },
+    "files": [
+        "index.ts"
+    ],
+    "include": [
+        "app/**/*.ts"
+    ]
+}
